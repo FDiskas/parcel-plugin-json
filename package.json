@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/FDiskas/parcel-plugin-json.git"
   },
-  "keywords": ["parcel", "parcel-plugin", "plugin", "json"],
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "plugin",
+    "json"
+  ],
   "author": "Vytenis Kučiauskas",
   "license": "ISC",
   "bugs": {
